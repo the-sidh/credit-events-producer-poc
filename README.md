@@ -5,7 +5,7 @@
 
 2- Git
 
-4- Postman ou cURL
+3- Postman ou cURL
 
 ##  1- Cloud Karafka
 
