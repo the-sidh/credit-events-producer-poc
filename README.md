@@ -72,7 +72,7 @@ Onde USER é o usuário da sua instância do Cloud Karafka, e a senha do mesmo.
 ## 3- Credit Event Producer
 1 - Rode localmente o seguinte comando
 
-> git clone https://github.com/the-sidh/credit-events-producer-poc.git
+> git clone https://github.com/the-sidh/poc-kafka-fiap.git
 
 2 - Editar o arquivo **resources/application.yml**  no seu editor favorito.
 
