@@ -1,4 +1,4 @@
-# Aula inaugural MBA FIAP 2021 (Hands On)
+# Aula MBA FIAP Kafka (Hands On)
 
 ## Pré-requisitos:
 1- Java (JDK ou JRE)
