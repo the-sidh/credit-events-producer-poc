@@ -52,7 +52,9 @@
 6 - Preencha "Additional Properties" com os dados abaixo:
 
 > security.protocol=SASL_SSL
+> 
 > sasl.mechanism=SCRAM-SHA-256
+> 
 > sasl.jaas.config=org.apache.kafka.common.security.scram.ScramLoginModule required username="USER" password="PASS";
 
 Onde USER é o usuário da sua instância do Cloud Karafka, e a senha do mesmo.
